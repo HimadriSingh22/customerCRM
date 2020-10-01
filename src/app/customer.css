@@ -1,0 +1,115 @@
+.thh {
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
+	color: black;
+	opacity: 0.6;
+}
+
+.title {
+	color: #333399;
+	font-weight: bold;
+	cursor: pointer;
+	font-size: 28px;
+}
+
+.contracts-list {
+	font-size: 14px;
+	font-weight: 400;
+	cursor: pointer;
+}
+
+.cust {
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 7px;
+}
+
+.mb-small {
+	margin-bottom: 7px;
+}
+
+.text-bold {
+	font-weight: 500;
+}
+
+.btn {
+	border-radius: .4rem;
+	font-weight: 600;
+	background-color: #fff;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-left: 7px;
+	padding-right: 7px;
+	line-height: 20px;
+}
+
+.blue-btn {
+	border: 2px solid #0066ff;
+	color: #0066ff;
+}
+
+.green-btn {
+	border: 2px solid #33cc00;
+	color: #33cc00;
+}
+
+.red-btn {
+	border: 2px solid #cc0000;
+	color: #cc0000;
+}
+
+
+/*--------------Contract form styles------------------*/
+
+.form .border {
+    border: 1px solid #e5e5e5;
+}
+
+.form .border:focus {
+    border-color: #1e87f0;
+}
+
+.form .invalid,
+.form .invalid:focus {
+  border: 1px solid red;
+}
+
+.form .valid,
+.form .valid:focus {
+  border: 1px solid #33cc33;
+  color: #33cc33;
+}
+
+.form .invalid::placeholder {
+  color: red;
+}
+
+.label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 70px;
+}
+
+.cont-top {
+	width: 100%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.form-cont {
+	width: 100%;
+	width: 100%;
+	margin: auto;
+	/* max-width: 700px;
+	margin: 20px auto;*/
+	padding: 20px;
+	/* border-radius: .7rem; */
+}
+
+.desc {
+	margin-top: 20px;
+	margin-bottom: 30px;
+	text-align: justify;
+	font-size: 16px;
+}
